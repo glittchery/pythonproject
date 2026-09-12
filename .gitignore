@@ -3,4 +3,4 @@
 .pytest_cache/
 .__pycache/
 .env
-.sqllessons/__pycache__
+sqllessons/__pycache__
